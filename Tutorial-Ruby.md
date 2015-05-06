@@ -325,4 +325,4 @@ end
 
 Como você pode ver, carregar e tocar efeitos sonoros não poderia ser mais fácil! Consulte o [rdoc](https://www.libgosu.org/rdoc/Gosu/Sample.html) para formas mais poderosas de reproduzir sons – brincar com o volume, posição e tom.
 
-É isso! O resto só depende da sua imaginação. Se você não consegue imaginar como isso é o suficiente para criar jogos, então dê uma olhada nos [exemplos do fórum][https://www.libgosu.org/cgi-bin/mwf/board_show.pl?bid=2].
+É isso! O resto só depende da sua imaginação. Se você não consegue imaginar como isso é o suficiente para criar jogos, então dê uma olhada nos [exemplos do fórum](https://www.libgosu.org/cgi-bin/mwf/board_show.pl?bid=2).
