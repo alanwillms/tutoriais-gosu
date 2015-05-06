@@ -67,11 +67,11 @@ window = GameWindow.new
 window.show
 ```
 
-`Gosu::Image#initialize` recebe três argumentos. Primeiramente, como todos os recursos de mídia, ela está atrelada a uma janela (`self`). Todos os recursos Gosu precisam de uma `Window` para a inicialização e conterão uma referência interna à mesma. Em segundo lugar, o nome do arquivo da imagem é passado. O terceiro argumento especifica se a imagem deve ser criada com bordas opacas. Consulte a página [Basic Concepts](https://github.com/jlnr/gosu/wiki/Basic-Concepts) para uma explicação melhor.
+`Gosu::Image#initialize` recebe três argumentos. Primeiramente, como todos os recursos de mídia, ela está atrelada a uma janela (`self`). Todos os recursos Gosu precisam de uma `Window` para a inicialização e conterão uma referência interna à mesma. Em segundo lugar, o nome do arquivo da imagem é passado. O terceiro argumento especifica se a imagem deve ser criada com bordas opacas. Consulte a página [Conceitos Básicos](Conceitos-Basicos.md) para uma explicação melhor.
 
 Conforme mencionado na seção anterior, o método `draw()` da janela é o lugar certo para desenhar tudo, então é aqui que vamos desenhar nossa imagem de fundo.
 
-A maioria dos argumentos é óbvia. A imagem é desenhada na posição (0;0) - o terceiro argumento é a posição Z; novamente, consulte a página [Basic Concepts](https://github.com/jlnr/gosu/wiki/Basic-Concepts).
+A maioria dos argumentos é óbvia. A imagem é desenhada na posição (0;0) - o terceiro argumento é a posição Z; novamente, consulte a página [Conceitos Básicos](Conceitos-Basicos.md).
 
 #### 2.1 Jogador & movimento
 
