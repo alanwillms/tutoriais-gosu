@@ -40,7 +40,7 @@ O método `draw()` é chamado depois dele, e também em qualquer momento que a j
 
 Então segue o programa principal. Uma janela é criada e seu método `show()` é chamado, que não retorna nada até que a janela tenha sido fechada pelo usuário ou pelo próprio código. Ta-dã – agora você tem uma pequena janela preta com o título que você escolheu!
 
-Um diagrama do loop principal é mostrado na página [Window Main Loop](https://github.com/jlnr/gosu/wiki/Window-Main-Loop).
+Um diagrama do loop principal é explicado na página [Loop Principal da Janela](Loop-Principal-Janela.md).
 
 ### 2. Usando Imagens
 
