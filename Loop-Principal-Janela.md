@@ -1,5 +1,7 @@
 # Loop Principal da Janela
 
+(Observação: essa é uma tradução do texto [Window Main Loop](https://github.com/jlnr/gosu/wiki/Window-Main-Loop)).
+
 Geralmente você criará uma sub-classe de `Gosu::Window` e sobrescreverá as partes que você precisar. Então você cria uma instância dessa classe e chama o método `show` dela. O que acontece é o seguinte:
 
 ![Loop Principal](https://github.com/jlnr/gosu/wiki/main_loop.png)
