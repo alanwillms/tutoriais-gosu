@@ -1,5 +1,7 @@
 # Conceitos Básicos
 
+(Observação: esta é uma tradução do texto [Basic Concepts](https://github.com/jlnr/gosu/wiki/Basic-Concepts)).
+
 ## Posição Z
 
 Todas as operações de desenho do Gosu aceitam um valor de ponto flutuante chamado "z" (tecnicamente, um `double`). As coisas que são desenhadas com uma posição "z" maior aparecerão por cima das que tem uma posição menor. Se duas coisas têm a mesma posição "z", elas serão desenhadas seguindo a ordem em que foram chamadas.
